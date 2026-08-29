@@ -1,0 +1,15 @@
+{
+  "presentacion": "Bienvenido!. Empezaremos creando tu personaje.",  
+  "pedir_nombre": "¿Cómo te llamarás?",
+  "fallo_nombre": "El nombre no puede estar vacío. Por favor, ingresa un nombre válido.",
+  "pedir_clase": "Elijamos tu clase...",
+  "confirmar_clase": "¿Deseas continuar con esta clase?, {si/no}",
+  "clases_info": {
+    "guerrero": "Resistente y equilibrado, aguanta bien en primera línea.",
+    "arquero": "Rápido y preciso, golpea fuerte desde lejos.",
+    "asesino": "Frágil pero letal, apuesta todo al golpe crítico.",
+    "mago": "Poder mágico devastador, cristal en combate cuerpo a cuerpo.",
+    "tanque": "Muralla andante, sacrifica daño por pura defensa."
+  },
+  "fallo_clase": "No has elegido una clase válida."
+}
