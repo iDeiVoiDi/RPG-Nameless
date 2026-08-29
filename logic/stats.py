@@ -2,6 +2,15 @@
 # Variacion de estadisticas
 #============================================================
 
+# | FUNCIONES |
+# Variar → Variacion de las estadisticas base 
+# Escalar_por_nivel → Escalado de estadisticas por nivel
+# Escalar_recompensas → Escalado de recompensas por nivel solo para ENEMIGOS
+# Ganar_exp → Funciones para manejar la experiencia y el nivel de una entidad
+# Exp_para_nivel → Calculo de experiencia necesaria para subir de nivel
+# Subir_nivel → Función para subir de nivel a una entidad
+# Aplicar_variante → Función para aplicar una variante a las estadísticas de un ENEMIGO
+
 import random
 
 STATS_COMBATE = ["hp", "daño", "defensa", "agilidad", "magia", "mana", "critico"]
