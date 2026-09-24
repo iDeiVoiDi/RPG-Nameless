@@ -49,4 +49,4 @@ RPG/
 │
 └── tests/                     # NUEVO (opcional) — tests de logic/ sin abrir ventana
 
-funciona?
+prueba
